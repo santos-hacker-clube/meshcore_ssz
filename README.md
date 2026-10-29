@@ -1,8 +1,8 @@
-# Baixada Santista MeshCore Network Expansion
+# Rede Emergencial e Comum da Baixada Santista (REC.BS) - Emergency and Common Network of the Baixada Santista
 
 [![Network: MeshCore](https://img.shields.io/badge/Network-MeshCore-blue.svg)](https://github.com/meshcore)
 
-An open-source, community-driven project to build and expand an off-grid, decentralized LoRa mesh communication network across the Baixada Santista metropolitan region (São Paulo, Brazil).
+An open-source, community-driven project to build and expand an off-grid, decentralized LoRa meshcore communication network across the Baixada Santista metropolitan region (São Paulo, Brazil).
 
 ---
 
@@ -78,6 +78,8 @@ This project relies on the open-source **MeshCore** ecosystem.
 ---
 
 ## 🤝 Contributing & Community
+
+The project has the infrastructure support from LAB Procomum, the communitty support from Santos Hacker Clube, academic support of Thiago Ferauche and documentation support of Victor Marinho.
 
 Contributions are welcome! Whether you want to host a repeater, test signal coverage in your neighborhood, or contribute to software tooling:
 
